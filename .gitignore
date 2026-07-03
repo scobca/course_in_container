@@ -13,6 +13,7 @@ pom.xml.asc
 .hgignore
 .hg/
 cic-bot.iml
+.clj-kondo
 
 # Intellij
 .idea
